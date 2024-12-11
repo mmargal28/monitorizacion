@@ -1,5 +1,5 @@
 ## Documentación Técnica: Monitorización
-![mon](/img/Portada.png)
+![mon](/img/Portada.jpg)
 ## Índice
 
 1. [Introducción](introduccion.md)
